@@ -42,6 +42,21 @@
       - [Cloud](#cloud)
       - [Lightweight](#lightweight)
   - [Server Redered Pages](#server-redered-pages)
+- [CMS](#cms)
+  - [PHP based](#php-based)
+  - [JS Based](#js-based)
+  - [Python Based](#python-based)
+  - [.NET](#net)
+- [DevOps, Deployment & More](#devops-deployment--more)
+  - [Deployment](#deployment)
+  - [Platforms](#platforms)
+  - [Virtualization](#virtualization)
+  - [Testing](#testing)
+- [Full Stack Rocker](#full-stack-rocker)
+- [Mobile Development](#mobile-development)
+- [Desktop Apps with Electron](#desktop-apps-with-electron)
+- [GraphQL & Apollo](#graphql--apollo)
+- [TypeScript](#typescript)
   
 <!-- /TOC -->
 
@@ -274,7 +289,7 @@ Do not reinvent the wheel. Learn a framework to build better and faster. choose 
 
 #### Cloud
 - [x] [Firebase]()
-- [ ] [AWS]()
+- [x] [AWS]()
 - [ ] [Azure DocumentDB]()
 
 #### Lightweight
@@ -297,6 +312,134 @@ Front-end frameworks like React, vue & Angular can also be rendered on the serve
 - [x] Next.js `React`
 - [ ] Nuxt.js `Vue`
 - [ ] Angular Universe `Angular`
+
+
+
+
+# CMS
+
+## PHP based
+- [x] Wordpress
+- [ ] Drupal
+
+## JS Based
+- [ ] Ghost
+- [ ] Keystone
+
+## Python Based
+- [ ] Mezzazine
+  
+## .NET
+- [ ] Piranha
+- [ ] Orchard CMS
+
+
+# DevOps, Deployment & More
+Learning Languages and frameworks is one thing, setting up environment, testing & deployment is another
+
+## Deployment
+
+- [ ] Linux
+- [ ] SSH
+- [ ] Git
+- [x] Nginx
+- [ ] Apache
+
+## Platforms
+- [x] Digital Ocean
+- [x] Heroku
+- [ ] AWS
+- [ ] Azure
+
+## Virtualization
+- [x] Docker
+- [ ] Vagrant
+
+## Testing
+- [ ] Unit
+- [ ] Integration
+- [ ] Functional
+- [ ] System
+
+
+# Full Stack Rocker
+- Setup full stack dev environment & workflows
+- Build back-end APIs & micro-services
+- Work with database
+- Construct full-stack apps (Frontend framework & server)
+- Deploy to the cloud (SSH, Git, Servers, etc)
+
+
+Beyond the browser
+# Mobile Development
+- [x] React Native (Build Native apps with react)
+- [ ] NativeScript (Angular, TypeScript, JavaScript)
+- [ ] Ionic (Hybrid apps with HTML/CSS/JS)
+- [ ] Flutter (Mobile SDK for Android & iOS (Uses Dart))
+- [ ] Xamarin (Mobile apps with C#)
+
+# Desktop Apps with Electron
+Electron is used to build powerful cross-platform desktop application using JavaScript
+- Uses Chromium & Node.js
+- Compatible with windows, Mac & Linux
+- Crash reporting, debugging & profilling
+
+2019 Trends
+# GraphQL & Apollo
+GraphQL is a revolutionary new way to think about APIs. Query language that is much less rigid than standard REST
+
+- Ask for only what you want
+- Front & Back end can collaborate more smoothly
+- Writing queries are very easy and similar to JSON
+- Apollo is a client to make requests to GraphQL server
+- Used with the Gatsby static site generator
+
+# TypeScript
+TypeScript is a superset of JS with additional features including static typing
+
+- Types for variables, functions, etc
+- Classes
+- Other ES6-like features
+- Used in angular but can be implemented in React & Vue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
